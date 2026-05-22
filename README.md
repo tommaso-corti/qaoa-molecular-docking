@@ -4,7 +4,7 @@ Gate-based quantum optimization for molecular docking — QAOA (RX & XY mixer) a
 
 Inspired by Triuzzi et al. (2025), who demonstrated molecular docking on a D-Wave quantum annealer using a weighted subgraph isomorphism QUBO formulation. This project adapts that mathematical formulation to a gate-based paradigm and benchmarks three algorithmic variants against Simulated Annealing and Brute Force enumeration.
 
-📝 [Read the full write-up on Medium](MEDIUM_LINK_HERE)
+📝 [Read the full write-up on Medium](https://medium.com/@corti.tommaso/i-spent-a-week-running-quantum-algorithms-on-a-drug-discovery-problem-heres-what-i-learned-49f654287ce5)
 
 ---
 
