@@ -1,4 +1,5 @@
-numpy
-scipy
-matplotlib
+# Versions used for the published results (Python 3.11.9)
+numpy==2.4.6
+scipy==1.17.1
+matplotlib==3.11.2
 jupyter
